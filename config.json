@@ -1,13 +1,13 @@
 {
-    "botToken": "BOT-TOKEN-HERE",
-    "logs_channel_id": "LOGS-CHANNEL-ID-HERE",
+    "botToken": "MTIyNzE4OTUyNzk0MTIxODQwOA.GIz_rE.Soh4fSm4OU7IX9AcGWiD7zmtErDo3Gyo3Dw1rI",
+    "logs_channel_id": "1226953313648508960",
 
     "prefix": "*",
     "command_name": "start",
     
     "give_role": false,
-    "role_name": "ROLE-NAME-HERE",
+    "role_name": "New",
 
     "mass_dm": 0,
-    "message": "MESSAGE-HERE"
+    "message": "Hi"
 }
